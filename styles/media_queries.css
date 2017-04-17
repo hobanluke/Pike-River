@@ -124,7 +124,7 @@
     .hover-bar{
     position: fixed;
     z-index: 999;
-    left: 0;
+    left: 0px;
     height: 40vh;
     width: 100%;
     display: block;
@@ -135,7 +135,10 @@
     line-height: 1.3em; 
     -webkit-transform: translate(0%,-50vh); 
     transform: translate(0%,-50vh);  
-    }   
+    } 
+    .hover-bar-container{
+    left: 0%;
+    }
     .hover-link1 {
     position: absolute;
     left: 25px;
@@ -147,7 +150,7 @@
     }   
     .hover-link2 {
     position: absolute;
-    left: calc(140px);
+    left: calc(135px);
     width: 100px;
     opacity: .25;
     }
@@ -166,7 +169,7 @@
     }
     .hover-link4 {
     position: absolute;
-    left: calc(140px);
+    left: calc(135px);
     width: 100px;
     top:50px;
     opacity: .25;
@@ -186,7 +189,7 @@
     }
     .hover-link6 {
     position: absolute;
-    left: calc(140px);
+    left: calc(135px);
     width: 100px;
     opacity: .25;
     top:100px;
@@ -196,7 +199,7 @@
     }
     .hover-link21 {
     position: absolute;
-    left: calc(140px);
+    left: calc(135px);
     width: 100px;
     opacity: .25;
     }
@@ -215,7 +218,7 @@
     }
     .hover-link41 {
     position: absolute;
-    left: calc(140px);
+    left: calc(135px);
     width: 100px;
     top:50px;
     opacity: .25;
@@ -235,7 +238,7 @@
     }
     .hover-link61 {
     position: absolute;
-    left: calc(140px);
+    left: calc(135px);
     width: 100px;
     opacity: .25;
     top:100px;
@@ -285,7 +288,7 @@
     .bottom-footer{
     left: 0%;
     font-size: .9em;
-    margin-top: 45vh;
+    margin-top: 40vh;
     }
     .bottom-footer-header {
     width: 20%;
@@ -293,7 +296,7 @@
     }
     .bottom-footer-content{
     left: calc(5% + 25px);
-    width: 125px;
+    width: 135px;
     }
     .bottom-footer-credit{
     visibility: hidden;
@@ -319,7 +322,7 @@
     left: 25px;  
     z-index: 5;
     top: 65px;
-    font-size: 32px;
+    font-size: 35px;
     } 
     .splash-copy{
     left: 50px;
@@ -330,7 +333,7 @@
     left: 25px;  
     z-index: 5;
     top: 450px;
-    font-size: 32px;
+    font-size: 35px;
     -webkit-transform: rotate(0deg);
     transform: rotate(0deg);
     } 
@@ -339,7 +342,7 @@
     left: 35vw;  
     z-index: 5;
     top: 450px;
-    font-size: 32px;
+    font-size: 35px;
     }     
     .splash-information{
     font-size: 12em;
@@ -388,8 +391,8 @@
     opacity: 1;
     z-index: 99;
     pointer-events: none;
-    -webkit-transform: translate(0%,200px);
-    transform: translate(0%,200px);  
+    -webkit-transform: translate(0%,100px);
+    transform: translate(0%,100px);  
     }
     .image.open{
     opacity: .5;
@@ -408,8 +411,8 @@
     opacity: 1;
     z-index: 99;
     pointer-events: none;
-    -webkit-transform: translate(0%,200px);
-    transform: translate(0%,200px);  
+    -webkit-transform: translate(0%,100px);
+    transform: translate(0%,100px);  
     }
     .image-2.open{
     opacity: .5;
@@ -427,8 +430,8 @@
     opacity: 1;
     z-index: 99;
     pointer-events: none;
-    -webkit-transform: translate(0%,200px);
-    transform: translate(0%,200px); 
+    -webkit-transform: translate(0%,100px);
+    transform: translate(0%,100px); 
     }
     .image-3.open{
     opacity: .5;
@@ -446,8 +449,8 @@
     opacity: 1;
     z-index: 99;
     pointer-events: none;
-    -webkit-transform: translate(0%,200px);
-    transform: translate(0%,200px);  
+    -webkit-transform: translate(0%,100px);
+    transform: translate(0%,100px);  
     }
     .image-4.open{
     opacity: .5;
@@ -459,18 +462,18 @@
     .image-5{
     width: auto;
     left: 0%;
-    height: 55vh;
+    height: 65vh;
     clear: left;
     float: left;
     opacity: 1;
     z-index: 99;
     pointer-events: none;
-    -webkit-transform: translate(0%,200px);
-    transform: translate(0%,200px); 
+    -webkit-transform: translate(0%,100px);
+    transform: translate(0%,100px); 
     }
     .image-5.open{
     opacity: .5;
-    height: 55vh;
+    height: 65vh;
     width: auto;    
     -webkit-transform: translate(0%,0px);
     transform: translate(0%,0px);       
@@ -484,8 +487,8 @@
     opacity: 1;
     z-index: 99;
     pointer-events: none;
-    -webkit-transform: translate(0%,200px);
-    transform: translate(0%,200px);  
+    -webkit-transform: translate(0%,100px);
+    transform: translate(0%,100px);  
     }
     .image-6.open{
     opacity: .5;

@@ -647,7 +647,7 @@ p:first-of-type {
 .hover-bar{
     position: fixed;
     z-index: 999;
-    left: 0;
+    left: 0%;
     height: 25vh;
     width: 100%;
     display: block;
@@ -656,8 +656,8 @@ p:first-of-type {
     background-color:rgba(255,255,255,0.95);
     font-size: 10em;
     line-height: 1.3em; 
-     -webkit-transform: translate(0%,-30vh); 
-     transform: translate(0%,-30vh);  
+    -webkit-transform: translate(0%,-30vh); 
+    transform: translate(0%,-30vh);  
     transition: 1s .2s cubic-bezier(0.86, 0, 0.07, 1);
     -webkit-transition: 1s .2s cubic-bezier(0.86, 0, 0.07, 1);
     -moz-transition: 1s .2s cubic-bezier(0.86, 0, 0.07, 1);

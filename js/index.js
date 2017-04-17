@@ -289,71 +289,71 @@ $(function() {
 
 
 
-//
-//
-//  $(function () { // wait for document ready
-//		// init controller
-//		var controller = new ScrollMagic.Controller();
-//
-//		// show pin state
-//		function updateBox (e) {
-//			if (e.type == "enter") {
-//				$(".hover-link21").css('opacity','1');
-//                $('.hover-link21').mouseenter(function(){
-//                    $('.hover-link21').css('opacity','.25');
-//                });
-//                $('.hover-link21').mouseleave(function(){
-//                    $('.hover-link21').css('opacity','1');
-//                });        
-//			} else {
-//				$(".hover-link21").css('opacity','.25');
-//                $('.hover-link21').mouseenter(function(){
-//                    $('.hover-link21').css('opacity','1');
-//                });
-//                $('.hover-link21').mouseleave(function(){
-//                    $('.hover-link21').css('opacity','.25');
-//                }); 
-//			}
-//		}
-//		new ScrollMagic.Scene({triggerElement: "#two", duration: scroll})
-//			.setPin("#pin")
-//			.setClassToggle("#pin", "green")
-//			.on("enter leave", updateBox)
-//			.addIndicators() // add indicators (requires plugin)
-//			.addTo(controller);
-//	});
-//
-//  $(function () { // wait for document ready
-//		// init controller
-//		var controller = new ScrollMagic.Controller();
-//
-//		// show pin state
-//		function updateBox (e) {
-//            if (e.type == "enter") {
-//				$(".hover-link31").css('opacity','1');
-//                $('.hover-link31').mouseenter(function(){
-//                    $('.hover-link31').css('opacity','.25');
-//                });
-//                $('.hover-link31').mouseleave(function(){
-//                    $('.hover-link31').css('opacity','1');
-//                });        
-//			} else {
-//				$(".hover-link31").css('opacity','.25');
-//                $('.hover-link31').mouseenter(function(){
-//                    $('.hover-link31').css('opacity','1');
-//                });
-//                $('.hover-link31').mouseleave(function(){
-//                    $('.hover-link31').css('opacity','.25');
-//                }); 
-//			}
-//		}
-//		new ScrollMagic.Scene({triggerElement: "#three", duration: scroll})
-//			.setPin("#pin")
-//			.setClassToggle("#pin", "green")
-//			.on("enter leave", updateBox)
-//			.addIndicators() // add indicators (requires plugin)
-//			.addTo(controller);
-//	});
+
+
+  $(function () { // wait for document ready
+		// init controller
+		var controller = new ScrollMagic.Controller();
+
+		// show pin state
+		function updateBox (e) {
+			if (e.type == "enter") {
+				$(".hover-link21").css('opacity','1');
+                $('.hover-link21').mouseenter(function(){
+                    $('.hover-link21').css('opacity','.25');
+                });
+                $('.hover-link21').mouseleave(function(){
+                    $('.hover-link21').css('opacity','1');
+                });        
+			} else {
+				$(".hover-link21").css('opacity','.25');
+                $('.hover-link21').mouseenter(function(){
+                    $('.hover-link21').css('opacity','1');
+                });
+                $('.hover-link21').mouseleave(function(){
+                    $('.hover-link21').css('opacity','.25');
+                }); 
+			}
+		}
+		new ScrollMagic.Scene({triggerElement: "#two", duration: scroll})
+			.setPin("#pin")
+			.setClassToggle("#pin", "green")
+			.on("enter leave", updateBox)
+			.addIndicators() // add indicators (requires plugin)
+			.addTo(controller);
+	});
+
+  $(function () { // wait for document ready
+		// init controller
+		var controller = new ScrollMagic.Controller();
+
+		// show pin state
+		function updateBox (e) {
+            if (e.type == "enter") {
+				$(".hover-link31").css('opacity','1');
+                $('.hover-link31').mouseenter(function(){
+                    $('.hover-link31').css('opacity','.25');
+                });
+                $('.hover-link31').mouseleave(function(){
+                    $('.hover-link31').css('opacity','1');
+                });        
+			} else {
+				$(".hover-link31").css('opacity','.25');
+                $('.hover-link31').mouseenter(function(){
+                    $('.hover-link31').css('opacity','1');
+                });
+                $('.hover-link31').mouseleave(function(){
+                    $('.hover-link31').css('opacity','.25');
+                }); 
+			}
+		}
+		new ScrollMagic.Scene({triggerElement: "#three", duration: scroll})
+			.setPin("#pin")
+			.setClassToggle("#pin", "green")
+			.on("enter leave", updateBox)
+			.addIndicators() // add indicators (requires plugin)
+			.addTo(controller);
+	});
 
   $(function () { // wait for document ready
 		// init controller

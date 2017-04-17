@@ -73,9 +73,10 @@
     top: 30px;
     }    
     .hover-bar-top{
-    top: 26px;
+    top: 16px;
         padding-top: 0px;
-    left: calc(25px);
+        padding: 20px;
+    left: calc(15px);
      z-index: 1000;
     -webkit-transform: translate(0%,0vh);
     transform: translate(0%,0vh);
@@ -268,10 +269,10 @@
     left: calc(50px);
     }
     .footer-header{
-    font-size: 35px;
+    font-size: 30px;
     left: calc(50px);
     margin-top: -15px;
-    width: calc(80% - 20px);
+    width: calc(100% - 65px);
     }    
     .footer-content{
     margin-top: -20px;    
@@ -281,15 +282,16 @@
     }
     .bottom-footer{
     left: 0%;
-    margin-top: 50vh;
+        font-size: .9em;
+    margin-top: 45vh;
     }
     .bottom-footer-header {
-    width: 25%;
+    width: 20%;
     left: 25px;
     }
     .bottom-footer-content{
-    left: calc(25px);
-    width: 40%;
+    left: calc(5% + 25px);
+    width: 35%;
     }
     .bottom-footer-credit{
     visibility: hidden;
@@ -551,9 +553,10 @@
   /*Acknowledgement*/
 
     .landing-image{
-    width: 103vw;
+    height: 58vh;
+    width: auto;
     pointer-events: none;
-    left: 30%;
+    left: 0%;
     bottom: 0%;
     -webkit-transform: translate(-0%,-0%);
     transform: translate(-0%,-0%);
@@ -589,6 +592,9 @@
     .title-width-acknowledgements{
     width: 300px;
     position: relative;
+    }
+    .list-miners li{
+    font-size: 13em;
     }
     .copy-miners li{
     left: calc(20%);

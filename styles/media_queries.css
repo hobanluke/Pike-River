@@ -73,7 +73,7 @@
     top: 30px;
     }    
     .hover-bar-top{
-    top: 16px;
+    top: 6px;
         padding-top: 0px;
         padding: 20px;
     left: calc(15px);
@@ -267,6 +267,8 @@
     .footer-explore{
     width: 50%;
     left: calc(50px);
+    font-size: calc(9em);
+    color: #777;    
     }
     .footer-header{
     font-size: 30px;
@@ -276,13 +278,13 @@
     }    
     .footer-content{
     margin-top: -20px;    
-    font-size: 11em;
+    font-size: 10em;
     color: #555; 
     left: calc(25% + 35px);
     }
     .bottom-footer{
     left: 0%;
-        font-size: .9em;
+    font-size: .9em;
     margin-top: 45vh;
     }
     .bottom-footer-header {
@@ -291,7 +293,7 @@
     }
     .bottom-footer-content{
     left: calc(5% + 25px);
-    width: 35%;
+    width: 125px;
     }
     .bottom-footer-credit{
     visibility: hidden;

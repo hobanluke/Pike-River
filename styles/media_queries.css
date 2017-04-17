@@ -297,7 +297,7 @@
     .bottom-footer-content{
     left: calc(5% + 25px);
     font-size: 8em;     
-    width: 195px;
+    width: 135px;
     }
     .bottom-footer-credit{
     visibility: hidden;
@@ -559,11 +559,11 @@
   /*Acknowledgement*/
 
     .landing-image{
-    height: 58vh;
+    height: 60vh;
+    top: 41.5vh;
     width: auto;
     pointer-events: none;
     left: 0%;
-    bottom: 0%;
     -webkit-transform: translate(-0%,-0%);
     transform: translate(-0%,-0%);
     opacity: 0.25;

@@ -110,8 +110,8 @@
     transition: .6s .4s cubic-bezier(0.86, 0, 0.07, 1); 
     -webkit-transition: .6s .4s cubic-bezier(0.86, 0, 0.07, 1);
     -moz-transition: .6s .4s cubic-bezier(0.86, 0, 0.07, 1);
-     -webkit-transform: translate(-25px, 0px) rotate(180deg); 
-    transform: translate(-25px, 0px) rotate(180deg); 
+     -webkit-transform: translate(-25px, -10px) rotate(180deg); 
+    transform: translate(-25px, -10px) rotate(180deg); 
     } 
     .fixed-white-header.open {
     -webkit-transform: translate(0%,calc(40vh - 1px));  

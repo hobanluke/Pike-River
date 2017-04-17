@@ -287,7 +287,7 @@
     }
     .bottom-footer{
     left: 0%;
-    margin-top: 37.5vh;
+    margin-top: 38.5vh;
     }
     .bottom-footer-header {
     width: 20%;
@@ -297,7 +297,7 @@
     .bottom-footer-content{
     left: calc(5% + 25px);
     font-size: 8em;     
-    width: 125px;
+    width: 135px;
     }
     .bottom-footer-credit{
     visibility: hidden;

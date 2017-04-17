@@ -12,8 +12,8 @@ $menu.on("click","a", function(){
    
     TweenMax.to($window, 2, {
         scrollTo:{
-            y: topY, 
-//            autoKill: true
+            y: topY 
+//            autoKill: true//
         }, 
         ease:Circ.easeOut 
      });

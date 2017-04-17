@@ -551,12 +551,12 @@
   /*Acknowledgement*/
 
     .landing-image{
-    width: 70vw;
+    width: 103vw;
     pointer-events: none;
-    left: 50%;
-    top: 50%;
-    -webkit-transform: translate(-50%,-50%);
-    transform: translate(-50%,-50%);
+    left: 30%;
+    bottom: 0%;
+    -webkit-transform: translate(-0%,-0%);
+    transform: translate(-0%,-0%);
     opacity: 0.25;
     }
     .landing-image:hover{
@@ -574,7 +574,7 @@
     letter-spacing: -0.03em;
     font-weight: 700;
     line-height: .95;    
-    font-size: 45em;  
+    font-size: 40em;  
     animation: TextDropdownMoblie 1.7s cubic-bezier(0.86, 0, 0.07, 1);
     -moz-animation: TextDropdownMoblie 1.7s cubic-bezier(0.86, 0, 0.07, 1);
     -webkit-animation: TextDropdownMoblie 1.7s cubic-bezier(0.86, 0, 0.07, 1);
@@ -592,6 +592,7 @@
     }
     .copy-miners li{
     left: calc(20%);
+    pointer-events: none;
     }
 
 /*Timeline*/
@@ -663,7 +664,7 @@
     .image-book2{
     position: relative;
     width: calc(55%);
-    left: 5px;
+    left: 0px;
     opacity: .75;
     margin-top: 75px;
     -webkit-transform: translate(0%,00px);

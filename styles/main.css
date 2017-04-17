@@ -143,7 +143,7 @@ html {
 }
 
 h1 {
-    font-family: "freight-display-pro", "Times", serif;
+    font-family: "freight-display-pro", Times New Roman, Times, serif;
     font-style: italic;
     font-weight: 600;
     letter-spacing: -0.01em;
@@ -929,7 +929,7 @@ p:first-of-type {
 }
 
 .footer-header{
-    font-family: "freight-display-pro", "Times", serif;
+    font-family: "freight-display-pro", Times New Roman, Times, serif;
     font-style: italic;
     line-height: 1.1;
     display: inline-block;
@@ -1284,7 +1284,7 @@ p:first-of-type {
 }
 
 .introtext-copy{
-    font-family: "freight-display-pro", "Times", serif;
+    font-family: "freight-display-pro", Times New Roman, Times, serif;
     font-style: italic;
     font-weight: 600;
     position: relative;
@@ -1316,17 +1316,17 @@ p:first-of-type {
     }
 @keyframes TextDropdownMoblie
     {
-    from {-webkit-transform: translate(-0%, -25vh);transform: translate(-0%, -25vh);} 
+    from {-webkit-transform: translate(-0%, -15vh);transform: translate(-0%, -15vh);} 
     to{-webkit-transform: translate(-0%, -0vh);transform: translate(-0%, -0vh);} 
     }
     @-webkit-keyframes TextDropdownMoblie
     {
-    from {-webkit-transform: translate(-0%, -25vh);transform: translate(-0%, -25vh);} 
+    from {-webkit-transform: translate(-0%, -15vh);transform: translate(-0%, -15vh);} 
     to{-webkit-transform: translate(-0%, -0vh);transform: translate(-0%, -0vh);} 
     }
 
 .title-acknowledgements{
-    font-family: "freight-display-pro", "Times New Roman", Times, serif;
+    font-family: "freight-display-pro", Times New Roman, Times, serif;
     font-style: italic;
     font-size: 55px;
     line-height: 1.1;
@@ -2811,7 +2811,7 @@ p:first-of-type {
 
 .splash-heading{
     position: relative;
-    font-family: "freight-display-pro", "Times", serif;
+    font-family: "freight-display-pro", Times New Roman, Times, serif;
     font-weight: 400;
     line-height: .95;
     width: 800px;
@@ -2828,7 +2828,7 @@ p:first-of-type {
 
 .splash-heading2{
     position: absolute;
-    font-family: "freight-display-pro", "Times", serif;
+    font-family: "freight-display-pro", Times New Roman, Times, serif;
     font-weight: 400;
     line-height: .95;
     width: 500px;
@@ -2849,7 +2849,7 @@ p:first-of-type {
 
 .splash-heading3{
     position: absolute;
-    font-family: "freight-display-pro", "Times", serif;
+    font-family: "freight-display-pro", Times New Roman, Times, serif;
     font-weight: 400;
     line-height: .95;
     width: 50%;
@@ -3208,7 +3208,7 @@ p:first-of-type {
     }
 
 .title-timeline{
-    font-family: "freight-display-pro", "Times", serif;
+    font-family: "freight-display-pro", Times New Roman, Times, serif;
     font-style: italic;
     font-size: 55px;
     line-height: 1.1;

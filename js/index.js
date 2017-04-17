@@ -1,29 +1,40 @@
 //smooth scrolling - anchor click
-$(function(){  
+//$(function(){  
+//
+//var wrapper = $("html"),
+//    $menu = $(".hover-bar-container"),
+//    $window = $(window);
+//
+//$menu.on("click","a", function(){
+//    var $this = $(this),
+//        href = $this.attr("href"),
+//        topY = $(href).offset().top;
+//   
+//    TweenMax.to($window, 2, {
+//        scrollTo:{
+//            y: topY, 
+//            autoKill: true
+//        }, 
+//        ease:Circ.easeOut 
+//     });
+//  
+//  return false;
+//});  
+//  
+//});
 
-var wrapper = $("html"),
-    $menu = $(".hover-bar-container"),
-    $window = $(window);
-
-$menu.on("click","a", function(){
-    var $this = $(this),
-        href = $this.attr("href"),
-        topY = $(href).offset().top;
-   
-    TweenMax.to($window, 2, {
-        scrollTo:{
-            y: topY, 
-            autoKill: true
-        }, 
-        ease:Circ.easeOut 
-     });
-  
-  return false;
-});  
-  
+$('a[href*="#"]:not([href="#"])').click(function() {
+  if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname == this.hostname) {
+    var target = $(this.hash);
+    target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+    if (target.length) {
+      $('html, body').animate({
+        scrollTop: target.offset().top
+      }, 1000);
+      return false;
+    }
+  }
 });
-
-
 
 
 //-----Actives menu  | START -----//

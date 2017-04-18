@@ -307,7 +307,7 @@
     position: relative;
     width: calc(150% - 0px);
     left: -25%;
-    margin-top: 20px;
+    margin-top: 15px;
     z-index: -1;
     clear: left;
     float: left;
@@ -316,8 +316,8 @@
     transition: .6s ease;
     -webkit-transition: .6s ease;
     -moz-transition: .6s ease; 
-    -webkit-transform: rotate(270deg);
-    transform: rotate(270deg);
+    -webkit-transform: rotate(90deg) scaleX(-1);
+    transform: rotate(90deg) scaleX(-1);
     }  
     .splash-heading{
     width: 300px;

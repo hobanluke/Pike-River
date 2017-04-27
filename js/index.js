@@ -484,37 +484,47 @@ $(function () { // wait for document ready
     $('.image-2').hover(function(){
         $('.image-credit-header').css('color', '#000');
         $('.image-credit').css('color', '#000');
+        $('.image-timeline-credit').css('color', '#000');
     },function(){
         $('.image-credit-header').css('z-index','1').css('color', '#999');
         $('.image-credit').css('z-index','1').css('color', '#999');
+        $('.image-timeline-credit').css('color', '#999');
     })
     $('.image-3').hover(function(){
         $('.image-credit-header').css('color', '#000');
         $('.image-credit').css('color', '#000');
+        $('.image-timeline-credit').css('color', '#000');
     },function(){
         $('.image-credit-header').css('z-index','1').css('color', '#999');
         $('.image-credit').css('z-index','1').css('color', '#999');
+        $('.image-timeline-credit').css('color', '#999');
     })
     $('.image-4').hover(function(){
         $('.image-credit-header').css('color', '#000');
         $('.image-credit').css('color', '#000');
+        $('.image-timeline-credit').css('color', '#000');
     },function(){
         $('.image-credit-header').css('z-index','1').css('color', '#999');
         $('.image-credit').css('z-index','1').css('color', '#999');
+        $('.image-timeline-credit').css('color', '#999');
     })
     $('.image-5').hover(function(){
         $('.image-credit-header').css('color', '#000');
         $('.image-credit').css('color', '#000');
+        $('.image-timeline-credit').css('color', '#000');
     },function(){
         $('.image-credit-header').css('z-index','1').css('color', '#999');
         $('.image-credit').css('z-index','1').css('color', '#999');
+        $('.image-timeline-credit').css('color', '#999');
     })
     $('.image-6').hover(function(){
         $('.image-credit-header').css('color', '#000');
         $('.image-credit').css('color', '#000');
+        $('.image-timeline-credit').css('color', '#000');
     },function(){
         $('.image-credit-header').css('z-index','1').css('color', '#999');
         $('.image-credit').css('z-index','1').css('color', '#999');
+        $('.image-timeline-credit').css('color', '#999');
     })    
     $('.image-small').hover(function(){
         $('.image-credit-header').css('color', '#000');

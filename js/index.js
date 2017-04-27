@@ -481,6 +481,41 @@ $(function () { // wait for document ready
         $('.image-credit-header').css('z-index','1').css('color', '#999');
         $('.image-credit').css('z-index','1').css('color', '#999');
     })
+    $('.image-2').hover(function(){
+        $('.image-credit-header').css('color', '#000');
+        $('.image-credit').css('color', '#000');
+    },function(){
+        $('.image-credit-header').css('z-index','1').css('color', '#999');
+        $('.image-credit').css('z-index','1').css('color', '#999');
+    })
+    $('.image-3').hover(function(){
+        $('.image-credit-header').css('color', '#000');
+        $('.image-credit').css('color', '#000');
+    },function(){
+        $('.image-credit-header').css('z-index','1').css('color', '#999');
+        $('.image-credit').css('z-index','1').css('color', '#999');
+    })
+    $('.image-4').hover(function(){
+        $('.image-credit-header').css('color', '#000');
+        $('.image-credit').css('color', '#000');
+    },function(){
+        $('.image-credit-header').css('z-index','1').css('color', '#999');
+        $('.image-credit').css('z-index','1').css('color', '#999');
+    })
+    $('.image-5').hover(function(){
+        $('.image-credit-header').css('color', '#000');
+        $('.image-credit').css('color', '#000');
+    },function(){
+        $('.image-credit-header').css('z-index','1').css('color', '#999');
+        $('.image-credit').css('z-index','1').css('color', '#999');
+    })
+    $('.image-6').hover(function(){
+        $('.image-credit-header').css('color', '#000');
+        $('.image-credit').css('color', '#000');
+    },function(){
+        $('.image-credit-header').css('z-index','1').css('color', '#999');
+        $('.image-credit').css('z-index','1').css('color', '#999');
+    })    
     $('.image-small').hover(function(){
         $('.image-credit-header').css('color', '#000');
         $('.image-credit').css('color', '#000');
@@ -495,6 +530,13 @@ $(function () { // wait for document ready
         $('.image-credit-header').css('color', '#999');
         $('.image-credit').css('color', '#999');
     })
+    $('.image-small3').hover(function(){
+        $('.image-credit-header').css('color', '#000');
+        $('.image-credit').css('color', '#000');
+    },function(){
+        $('.image-credit-header').css('color', '#999');
+        $('.image-credit').css('color', '#999');
+    })    
     $('.image').hover(function(){
         $('.image-timeline-credit-header').css('color', '#000');
         $('.image-timeline-credit').css('color', '#000');
@@ -509,6 +551,16 @@ $(function () { // wait for document ready
         $('.image-timeline-credit-header').css('color', '#999');
         $('.image-timeline-credit').css('color', '#999');
     })
+    $('.image-book2').hover(function(){
+        $('.image-timeline-credit-header-book2').css('color', '#000');
+    },function(){
+        $('.image-timeline-credit-header-book2').css('color', '#999');
+    })  
+    $('.image-book').hover(function(){
+        $('.image-timeline-credit-header-book').css('color', '#000');
+    },function(){
+        $('.image-timeline-credit-header-book').css('color', '#999');
+    })      
     
 //scrolling effect 
     

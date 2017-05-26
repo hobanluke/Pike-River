@@ -1015,7 +1015,7 @@ p:first-of-type {
     float: left;
     font-size: 9em;
     left: 5%;
-    width: 170px;
+    width: 180px;
     opacity: 0;
     color: #777;
     -webkit-transform: translate(0%, 10vh);
@@ -1042,7 +1042,7 @@ p:first-of-type {
     position: relative;
     float: left;
     font-size: 9em;
-    left: calc(35% - 170px);
+    left: calc(35% - 180px);
     width: 15%;
     opacity: 0;
     color: #777;

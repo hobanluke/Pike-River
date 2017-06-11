@@ -890,8 +890,14 @@ font-size: 45em;
         font-size: 45em;
     top: 750px;
     } 
-        .landing-shape{
+    .landing-shape{
     margin-top: -215px;
+    } 
+    .copy-information{
+    width: 30%;
+    }
+    .copy-timeline{
+    width: 25%;
     } 
         
 }

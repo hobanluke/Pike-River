@@ -1,16 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1421.69 931.9">
-  <title>landing</title>
-  <g id="Layer_2" data-name="Layer 2">
-    <g id="Layer_1-2" data-name="Layer 1">
-      <g id="Layer_2-2" data-name="Layer 2">
-        <g id="Layer_1-2-2" data-name="Layer 1-2">
-          <g id="Layer_2-2-2" data-name="Layer 2-2">
-            <g id="Layer_1-2-2-2" data-name="Layer 1-2-2">
-              <path d="M973,82.9h127.69c219.78,0,374.46,216,303.64,424.1L1291.67,837.9H866v-623l-348,717L33.48,871.08,0,222.42V182L510,0,703.48,115.21Z" style="fill: #d13736"/>
-            </g>
-          </g>
-        </g>
-      </g>
-    </g>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1421.7 931.9" style="enable-background:new 0 0 1421.7 931.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#D13736;}
+</style>
+<title>landing</title>
+<g id="Layer_2">
+	<g id="Layer_1-2">
+		<g id="Layer_2-2">
+			<g id="Layer_1-2-2">
+				<g id="Layer_2-2-2">
+					<g id="Layer_1-2-2-2">
+						<path class="st0" d="M973,51.9h127.7c219.8,0,374.5,216,303.6,424.1L1279,899H830.7V207.9L518,924.9L59.8,864.1L21.3,466
+							L0,215.3L510,0l193.5,108.2L973,51.9z"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
 </svg>

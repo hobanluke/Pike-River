@@ -1,12 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1330.87 899.46">
-  <title>timeline_4</title>
-  <g id="Layer_2" data-name="Layer 2">
-    <g id="Layer_1-2" data-name="Layer 1">
-      <g id="end">
-        <g id="Layer_1-2-2" data-name="Layer 1-2">
-          <path d="M944.6,0l386.27,97.27L1220.62,805.46H756.1V179.94L489.6,899.46l-481-189S-29.4,312.62,54.4,190c77.75-113.76,219-167.12,351.5-129.52,26.83,7.61,75.67,35,75.67,35L695.81,34.59Z" style="fill: #d13736"/>
-        </g>
-      </g>
-    </g>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1330.9 899.5" style="enable-background:new 0 0 1330.9 899.5;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#D13736;}
+</style>
+<title>timeline_4</title>
+<g id="Layer_2">
+	<g id="Layer_1-2">
+		<g id="end">
+			<g id="Layer_1-2-2">
+				<path class="st0" d="M944.6,12.4l386.3,65.9l-110.2,708.2H756.1V160.9L489.6,840L15,748c0,0-44.4-454.4,39.4-577
+					C132.1,57.2,273.4,3.9,405.9,41.5c26.8,7.6,75.7,35,75.7,35L695.8,28L944.6,12.4z"/>
+			</g>
+		</g>
+	</g>
+</g>
 </svg>

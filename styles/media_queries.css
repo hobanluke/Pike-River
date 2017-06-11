@@ -13,6 +13,11 @@
     opacity: 1; 
     }
  
+    h4 {
+    font-size: 12em;
+
+}
+    
 /*Fixed links*/
     
     .menu-text {
@@ -329,6 +334,7 @@
     .splash-copy{
     left: 50px;
     top: 85px;
+    font-size: 12em;    
     }    
     .splash-heading2{
     width: 150px;
@@ -626,6 +632,7 @@
     }
     .date-timeline{
     margin-left: calc(25px);
+    font-size: 10em;
     }
     .copy-timeline{
     width: 60%;

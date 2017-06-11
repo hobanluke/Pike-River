@@ -61,8 +61,8 @@
     }
     .menu-link{
     top: 15vh;
-    font-size: 15em;
-    padding-bottom: 2px;
+    font-size: 16em;
+    padding-bottom: 0px;
     }
     .menu-link:hover {
     opacity: 1;  
@@ -553,10 +553,10 @@
     .copy-information{
     left:  25px;
     padding-top: 0px;
-    width: 76%;
+    width: 80%;
     }
     .side-info{
-    width: 220px;
+    width: 250px;
     padding-top: 2px;
     }
     

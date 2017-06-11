@@ -253,7 +253,7 @@
     position: relative;
     }
     .moblie-content{
-    width: 45%;
+    width: 170px;
     left: 50px;
     font-size: 10em;
     color: #555;
@@ -298,17 +298,17 @@
     .bottom-footer-content{
     left: calc(5% + 25px);
     font-size: 8em;     
-    width: 135px;
+    width: 155px;
     }
     .bottom-footer-credit{
     visibility: hidden;
     }  
     .landing-shape{
     position: relative;
-    width: calc(150% - 0px);
-    left: -25%;
+    width: calc(175% - 0px);
+    left: -35%;
     margin-top: 15px;
-    z-index: -1;
+    z-index: -1; 
     clear: left;
     float: left;
     opacity: ;
@@ -321,7 +321,7 @@
     }  
     .splash-heading{
     width: 300px;
-    left: 25px;  
+    left: 15px;  
     z-index: 5;
     top: 65px;
     font-size: 35px;
@@ -332,7 +332,7 @@
     }    
     .splash-heading2{
     width: 150px;
-    left: 25px;  
+    left: 15px;  
     z-index: 5;
     top: 450px;
     font-size: 35px;

@@ -875,6 +875,29 @@
 
 
 
+@media (min-width:1620px) and (max-width:2000px) {
+      .splash-heading{
+font-size: 45em;
+          width: 1000px
+    } 
+ 
+    .splash-heading2{
+font-size: 45em;
+        top: 800px;
+        left: 700px;
+    } 
+    .splash-heading3{
+        font-size: 45em;
+    top: 750px;
+    } 
+        .landing-shape{
+    margin-top: -215px;
+    } 
+        
+}
+
+
+
 
 
 

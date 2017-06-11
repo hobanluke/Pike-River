@@ -305,8 +305,8 @@
     }  
     .landing-shape{
     position: relative;
-    width: calc(160% - 0px);
-    left: -30%;
+    width: calc(155% - 0px);
+    left: -27.5%;
     margin-top: 15px;
     z-index: -1; 
     clear: left;
@@ -321,7 +321,7 @@
     }  
     .splash-heading{
     width: 300px;
-    left: 20px;  
+    left: 25px;  
     z-index: 5;
     top: 65px;
     font-size: 35px;
@@ -332,7 +332,7 @@
     }    
     .splash-heading2{
     width: 150px;
-    left: 20px;  
+    left: 25px;  
     z-index: 5;
     top: 450px;
     font-size: 35px;
@@ -615,7 +615,7 @@
 
     .timeline-header h1{
     border: 1px solid #000;
-    border-width: 0 0 2px;  
+    border-width: 0 0 1px;  
     }
     .timeline-header{
     left: calc(125px);
@@ -631,6 +631,10 @@
     width: 60%;
     font-size: 12em;    
     } 
+    .copy-timeline span{
+    padding-bottom: 1px;
+    border-bottom: 1px solid #222;
+    }
     .image-timeline-credit-header{
     left: calc(125px);
     width: auto;

@@ -2923,7 +2923,7 @@ p:first-of-type {
     position: relative;
     font-family: "freight-display-pro", Times New Roman, Times, serif;
     font-weight: 400;
-    line-height: .85;
+    line-height: .9;
     width: 800px;
     left: 2.5%;  
     z-index: 5;
@@ -2940,7 +2940,7 @@ p:first-of-type {
     position: absolute;
     font-family: "freight-display-pro", Times New Roman, Times, serif;
     font-weight: 400;
-    line-height: .85;
+    line-height: .9;
     width: 500px;
     left: 30vw;  
     z-index: 5;
@@ -2961,7 +2961,7 @@ p:first-of-type {
     position: absolute;
     font-family: "freight-display-pro", Times New Roman, Times, serif;
     font-weight: 400;
-    line-height: .85;
+    line-height: .9;
     width: 50%;
     left: 65vw;  
     z-index: 5;

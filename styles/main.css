@@ -965,7 +965,7 @@ p:first-of-type {
     left: 2.5%;
     width: 100%;
     margin-bottom: 10vh;
-    margin-top: 40vh;
+    margin-top: 37.5vh;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -1015,7 +1015,7 @@ p:first-of-type {
     float: left;
     font-size: 9em;
     left: 5%;
-    width: 210px;
+    width: 240px;
     opacity: 0;
     color: #777;
     -webkit-transform: translate(0%, 10vh);
@@ -1041,8 +1041,8 @@ p:first-of-type {
     display: inline-block;
     position: relative;
     float: left;
-    font-size: 9em;
-    left: calc(35% - 190px);
+    font-size: 11em;
+    left: calc(35% - 240px);
     width: 15%;
     opacity: 0;
     color: #777;
@@ -2903,9 +2903,9 @@ p:first-of-type {
 
 .landing-shape{
     position: relative;
-    width: calc(95% - 0px);
-    left: 2.5%;
-    margin-top: -165px;
+    width: calc(98% - 0px);
+    left: 1%;
+    margin-top: -185px;
     z-index: -1;
     clear: left;
     float: left;
@@ -3100,7 +3100,7 @@ p:first-of-type {
 }
 
 .side-info{
-    width: 210px;
+    width: 250px;
     padding-top: 2px;
 }
 
@@ -3131,7 +3131,7 @@ p:first-of-type {
     left: calc(20%);
     padding-top: 50px;
     padding-bottom: 5vh;
-    width: 400px;
+    width: 485px;
     display: inline-block;
     position: relative;
     float: left;
@@ -3238,33 +3238,31 @@ p:first-of-type {
     margin-left: calc(40% - 100px);
     clear: left;
     text-align: right;
-    padding-top: 0px;
-    font-size: 10em;
+    padding-top: 13px;
+    font-size: 12em;
     font-weight: 400;
-    color: #999;
+    color: #111;
     width: 75px;
     }
 
 .copy-timeline{
-    text-indent: 0em;
-    width: 390px;
+    text-indent: 0px;
+    width: 500px;
     display: block;
     float: left;
     color: #000;
     display: inline;
     left: 0px;;
     position: relative;
-    padding-top: 0px;
-    font-size: 15em;
+    padding-top: 10px;
+    font-size: 18em;
     padding-left: 25px;
-    line-height: 1.2;
+    line-height: 1.25;
     }
 
 .copy-timeline span{
-/*
-    padding-bottom: 2px;
-    border-bottom: 1px solid #000;
-*/
+    padding-bottom: 1px;
+    border-bottom: 2px solid #222;
     }
 
 

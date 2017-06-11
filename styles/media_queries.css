@@ -305,8 +305,8 @@
     }  
     .landing-shape{
     position: relative;
-    width: calc(150% - 0px);
-    left: -25%;
+    width: calc(160% - 0px);
+    left: -30%;
     margin-top: 15px;
     z-index: -1; 
     clear: left;
@@ -604,7 +604,7 @@
     position: relative;
     }
     .list-miners li{
-    font-size: 17em;
+    font-size: 15em;
     }
     .copy-miners li{
     left: calc(20%);
@@ -867,8 +867,8 @@
     } 
     .landing-shape{
     position: relative;
-    width: calc(100% - 0px);
-    left: -0%;
+    width: calc(120% - 0px);
+    left: -10%;
     margin-top: -50px;
     }        
 }

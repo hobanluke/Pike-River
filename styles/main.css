@@ -3358,7 +3358,7 @@ p:first-of-type {
 
 .copy-timeline{
     text-indent: 0px;
-    width: 500px;
+    width: 425px;
     display: block;
     float: left;
     color: #000;
@@ -3366,7 +3366,7 @@ p:first-of-type {
     left: 0px;;
     position: relative;
     padding-top: 10px;
-    font-size: 18em;
+    font-size: 15em;
     padding-left: 25px;
     line-height: 1.25;
     }

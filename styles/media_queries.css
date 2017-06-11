@@ -305,8 +305,8 @@
     }  
     .landing-shape{
     position: relative;
-    width: calc(175% - 0px);
-    left: -35%;
+    width: calc(150% - 0px);
+    left: -25%;
     margin-top: 15px;
     z-index: -1; 
     clear: left;
@@ -373,7 +373,7 @@
     font-style: normal;
     font-size: 12em;
     line-height: 1.4em;
-    font-weight: 600;
+    font-weight: 400;
     }
     p{
     font-size: 13em;

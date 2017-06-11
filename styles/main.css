@@ -1358,9 +1358,9 @@ p:first-of-type {
 
 .list-miners li{
     width: auto;
-    font-size: 15em;
+    font-size: 18em;
     font-weight: 400;
-    line-height: 1.5;
+    line-height: 1.4;
     float: left;
     clear: left;
     color: #000;
@@ -1391,473 +1391,583 @@ p:first-of-type {
 }
 
 #Adams{
+    border: 1px solid #000;
+    border-width: 0 0 2px;
     opacity: 1;
     cursor: pointer;
-    transition: .6s .6s ease;
-    -webkit-transition: .6s .6s ease;
-    -moz-transition: .6s .6s ease; 
+    transition: 0s ease;
+    -webkit-transition: 0s ease;
+    -moz-transition: 0s ease; 
 }
 
 #Adams:hover{
     opacity: .75;
-    text-decoration: underline;
-    transition: .3s  ease;
-    -webkit-transition: .3s  ease;
-    -moz-transition: .3s  ease;    
+    border: 1px solid #000;
+    border-width: 0 0 0px;
+    padding-bottom: 2px;
+    transition: 0s  ease;
+    -webkit-transition: 0s  ease;
+    -moz-transition: 0s  ease;    
 }
 
 #Kitchin{
+    border: 1px solid #000;
+    border-width: 0 0 2px;
     opacity: 1;
     cursor: pointer;
-    transition: .6s .6s ease;
-    -webkit-transition: .6s .6s ease;
-    -moz-transition: .6s .6s ease;     
+    transition: 0s ease;
+    -webkit-transition: 0s ease;
+    -moz-transition: 0s ease;     
 }
 
 #Kitchin:hover{
     opacity: .75;
-    text-decoration: underline;
-    transition: .3s  ease;
-    -webkit-transition: .3s  ease;
-    -moz-transition: .3s  ease;     
+    border: 1px solid #000;
+    border-width: 0 0 0px;
+    padding-bottom: 2px;
+    transition: 0s  ease;
+    -webkit-transition: 0s  ease;
+    -moz-transition: 0s  ease;     
 }
 
 #Mackie{
+    border: 1px solid #000;
+    border-width: 0 0 2px;
     opacity: 1;
     cursor: pointer;
-    transition: .6s .6s ease;
-    -webkit-transition: .6s .6s ease;
-    -moz-transition: .6s .6s ease;     
+    transition: 0s ease;
+    -webkit-transition: 0s ease;
+    -moz-transition: 0s ease;     
 }
 
 #Mackie:hover{
     opacity: .75;
-    text-decoration: underline;
-    transition: .3s  ease;
-    -webkit-transition: .3s  ease;
-    -moz-transition: .3s  ease;      
+    border: 1px solid #000;
+    border-width: 0 0 0px;
+    padding-bottom: 2px;
+    transition: 0s  ease;
+    -webkit-transition: 0s  ease;
+    -moz-transition: 0s  ease;       
 }
 
 #Mudge{
+    border: 1px solid #000;
+    border-width: 0 0 2px;
     opacity: 1;
     cursor: pointer;
-    transition: .6s .6s ease;
-    -webkit-transition: .6s .6s ease;
-    -moz-transition: .6s .6s ease; 
+    transition: 0s ease;
+    -webkit-transition: 0s ease;
+    -moz-transition: 0s ease; 
 }
 
 #Mudge:hover{
     opacity: .75;
-    text-decoration: underline;
-    transition: .3s  ease;
-    -webkit-transition: .3s  ease;
-    -moz-transition: .3s  ease;     
+    border: 1px solid #000;
+    border-width: 0 0 0px;
+    padding-bottom: 2px;
+    transition: 0s  ease;
+    -webkit-transition: 0s  ease;
+    -moz-transition: 0s  ease;      
 }
 
 #Marden{
+    border: 1px solid #000;
+    border-width: 0 0 2px;
     opacity: 1;
     cursor: pointer;
-    transition: .6s .6s ease;
-    -webkit-transition: .6s .6s ease;
-    -moz-transition: .6s .6s ease;     
+    transition: 0s ease;
+    -webkit-transition: 0s ease;
+    -moz-transition: 0s ease;    
 }
 
 #Marden:hover{
     opacity: .75;
-    text-decoration: underline;
-    transition: .3s  ease;
-    -webkit-transition: .3s  ease;
-    -moz-transition: .3s  ease;     
+    border: 1px solid #000;
+    border-width: 0 0 0px;
+    padding-bottom: 2px;
+    transition: 0s  ease;
+    -webkit-transition: 0s  ease;
+    -moz-transition: 0s  ease;      
 }
 
 #Cruse{
+    border: 1px solid #000;
+    border-width: 0 0 2px;
     opacity: 1;
     cursor: pointer;
-    transition: .6s .6s ease;
-    -webkit-transition: .6s .6s ease;
-    -moz-transition: .6s .6s ease;     
+    transition: 0s ease;
+    -webkit-transition: 0s ease;
+    -moz-transition: 0s ease;     
 }
 
 #Cruse:hover{
     opacity: .75;
-    text-decoration: underline;
-    transition: .3s  ease;
-    -webkit-transition: .3s  ease;
-    -moz-transition: .3s  ease;    
+    border: 1px solid #000;
+    border-width: 0 0 0px;
+    padding-bottom: 2px;
+    transition: 0s  ease;
+    -webkit-transition: 0s  ease;
+    -moz-transition: 0s  ease;     
 }
 
 #Dunbar{
+    border: 1px solid #000;
+    border-width: 0 0 2px;
     opacity: 1;
     cursor: pointer;
-    transition: .6s .6s ease;
-    -webkit-transition: .6s .6s ease;
-    -moz-transition: .6s .6s ease; 
+    transition: 0s ease;
+    -webkit-transition: 0s ease;
+    -moz-transition: 0s ease; 
 }
 
 #Dunbar:hover{
     opacity: .75;
-    text-decoration: underline;
-    transition: .3s  ease;
-    -webkit-transition: .3s  ease;
-    -moz-transition: .3s  ease;    
+    border: 1px solid #000;
+    border-width: 0 0 0px;
+    padding-bottom: 2px;
+    transition: 0s  ease;
+    -webkit-transition: 0s  ease;
+    -moz-transition: 0s  ease;     
 }
 
 #Monk{
+    border: 1px solid #000;
+    border-width: 0 0 2px;
     opacity: 1;
     cursor: pointer;
-    -webkit-transition: .6s .6s  ease;
-    transition: .6s .6s  ease;
-    -webkit-transition: .6s .6s ease;
-    -moz-transition: .6s .6s ease;     
+    transition: 0s ease;
+    -webkit-transition: 0s ease;
+    -moz-transition: 0s ease;     
 }
 
 #Monk:hover{
     opacity: .75;
-    text-decoration: underline;
-    transition: .3s  ease;
-    -webkit-transition: .3s  ease;
-    -moz-transition: .3s  ease;     
+    border: 1px solid #000;
+    border-width: 0 0 0px;
+    padding-bottom: 2px;
+    transition: 0s  ease;
+    -webkit-transition: 0s  ease;
+    -moz-transition: 0s  ease;     
 }
 
 #Hoggart{
+    border: 1px solid #000;
+    border-width: 0 0 2px;
     opacity: 1;
     cursor: pointer;
-    transition: .6s .6s ease;
-    -webkit-transition: .6s .6s ease;
-    -moz-transition: .6s .6s ease;     
+    transition: 0s ease;
+    -webkit-transition: 0s ease;
+    -moz-transition: 0s ease;    
 }
 
 #Hoggart:hover{
     opacity: .75;
-    text-decoration: underline;
-    transition: .3s  ease;
-    -webkit-transition: .3s  ease;
-    -moz-transition: .3s  ease;     
+    border: 1px solid #000;
+    border-width: 0 0 0px;
+    padding-bottom: 2px;
+    transition: 0s  ease;
+    -webkit-transition: 0s  ease;
+    -moz-transition: 0s  ease;      
 }
 
 #Nieper{
+    border: 1px solid #000;
+    border-width: 0 0 2px;
     opacity: 1;
     cursor: pointer;
-    transition: .6s .6s ease;
-    -webkit-transition: .6s .6s ease;
-    -moz-transition: .6s .6s ease; 
+    transition: 0s ease;
+    -webkit-transition: 0s ease;
+    -moz-transition: 0s ease;  
 }
 
 #Nieper:hover{
     opacity: .75;
-    text-decoration: underline;
-    transition: .3s  ease;
-    -webkit-transition: .3s  ease;
-    -moz-transition: .3s  ease;    
+    border: 1px solid #000;
+    border-width: 0 0 0px;
+    padding-bottom: 2px;
+    transition: 0s  ease;
+    -webkit-transition: 0s  ease;
+    -moz-transition: 0s  ease;     
 }
 
 #Holling{
+    border: 1px solid #000;
+    border-width: 0 0 2px;
     opacity: 1;
     cursor: pointer;
-    transition: .6s .6s ease;
-    -webkit-transition: .6s .6s ease;
-    -moz-transition: .6s .6s ease;     
+    transition: 0s ease;
+    -webkit-transition: 0s ease;
+    -moz-transition: 0s ease;     
 }
 
 #Holling:hover{
     opacity: .75;
-    text-decoration: underline;
-    transition: .3s  ease;
-    -webkit-transition: .3s  ease;
-    -moz-transition: .3s  ease;     
+    border: 1px solid #000;
+    border-width: 0 0 0px;
+    padding-bottom: 2px;
+    transition: 0s  ease;
+    -webkit-transition: 0s  ease;
+    -moz-transition: 0s  ease;      
 }
 
 #Drew{
+    border: 1px solid #000;
+    border-width: 0 0 2px;
     opacity: 1;
     cursor: pointer;
-    -webkit-transition: .6s  .6s ease;
-    transition: .6s  .6s ease;
-    -webkit-transition: .6s .6s ease;
-    -moz-transition: .6s .6s ease;     
+    transition: 0s ease;
+    -webkit-transition: 0s ease;
+    -moz-transition: 0s ease;      
 }
 
 #Drew:hover{
     opacity: .75;
-    text-decoration: underline;
-    transition: .3s  ease;
-    -webkit-transition: .3s  ease;
-    -moz-transition: .3s  ease;     
+    border: 1px solid #000;
+    border-width: 0 0 0px;
+    padding-bottom: 2px;
+    transition: 0s  ease;
+    -webkit-transition: 0s  ease;
+    -moz-transition: 0s  ease;      
 }
 
 #Campbell{
+    border: 1px solid #000;
+    border-width: 0 0 2px;
     opacity: 1;
     cursor: pointer;
-    transition: .6s .6s ease;
-    -webkit-transition: .6s .6s ease;
-    -moz-transition: .6s .6s ease; 
+    transition: 0s ease;
+    -webkit-transition: 0s ease;
+    -moz-transition: 0s ease; 
 }
 
 #Campbell:hover{
     opacity: .75;
-    text-decoration: underline;
-    transition: .3s  ease;
-    -webkit-transition: .3s  ease;
-    -moz-transition: .3s  ease;    
+    border: 1px solid #000;
+    border-width: 0 0 0px;
+    padding-bottom: 2px;
+    transition: 0s  ease;
+    -webkit-transition: 0s  ease;
+    -moz-transition: 0s  ease;     
 }
 
 #Herk{
+    border: 1px solid #000;
+    border-width: 0 0 2px;
     opacity: 1;
     cursor: pointer;
-    transition: .6s .6s ease;
-    -webkit-transition: .6s .6s ease;
-    -moz-transition: .6s .6s ease;     
+    transition: 0s ease;
+    -webkit-transition: 0s ease;
+    -moz-transition: 0s ease;     
 }
 
 #Herk:hover{
     opacity: .75;
-    text-decoration: underline;
-    transition: .3s  ease;
-    -webkit-transition: .3s  ease;
-    -moz-transition: .3s  ease;    
+    border: 1px solid #000;
+    border-width: 0 0 0px;
+    padding-bottom: 2px;
+    transition: 0s  ease;
+    -webkit-transition: 0s  ease;
+    -moz-transition: 0s  ease;     
 }
 
 #Jonker{
+    border: 1px solid #000;
+    border-width: 0 0 2px;
     opacity: 1;
     cursor: pointer;
-    transition: .6s .6s ease;
-    -webkit-transition: .6s .6s ease;
-    -moz-transition: .6s .6s ease;     
+    transition: 0s ease;
+    -webkit-transition: 0s ease;
+    -moz-transition: 0s ease;     
 }
 
 #Jonker:hover{
     opacity: .75;
-    text-decoration: underline;
-    transition: .3s  ease;
-    -webkit-transition: .3s  ease;
-    -moz-transition: .3s  ease;     
+    border: 1px solid #000;
+    border-width: 0 0 0px;
+    padding-bottom: 2px;
+    transition: 0s  ease;
+    -webkit-transition: 0s  ease;
+    -moz-transition: 0s  ease;      
 }
 
 #Dixon{
+    border: 1px solid #000;
+    border-width: 0 0 2px;
     opacity: 1;
     cursor: pointer;
-    transition: .6s .6s ease;
-    -webkit-transition: .6s .6s ease;
-    -moz-transition: .6s .6s ease; 
+    transition: 0s ease;
+    -webkit-transition: 0s ease;
+    -moz-transition: 0s ease;  
 }
 
 #Dixon:hover{
     opacity: .75;
-    text-decoration: underline;
-    transition: .3s  ease;
-    -webkit-transition: .3s  ease;
-    -moz-transition: .3s  ease;    
+    border: 1px solid #000;
+    border-width: 0 0 0px;
+    padding-bottom: 2px;
+    transition: 0s  ease;
+    -webkit-transition: 0s  ease;
+    -moz-transition: 0s  ease;      
 }
 
 #Joynson{
+    border: 1px solid #000;
+    border-width: 0 0 2px;
     opacity: 1;
     cursor: pointer;
-    transition: .6s .6s ease;
-    -webkit-transition: .6s .6s ease;
-    -moz-transition: .6s .6s ease;     
+    transition: 0s ease;
+    -webkit-transition: 0s ease;
+    -moz-transition: 0s ease;     
 }
 
 #Joynson:hover{
     opacity: .75;
-    text-decoration: underline;
-    transition: .3s  ease;
-    -webkit-transition: .3s  ease;
-    -moz-transition: .3s  ease;    
+    border: 1px solid #000;
+    border-width: 0 0 0px;
+    padding-bottom: 2px;
+    transition: 0s  ease;
+    -webkit-transition: 0s  ease;
+    -moz-transition: 0s  ease;    
 }
 
 #Keane{
+    border: 1px solid #000;
+    border-width: 0 0 2px;
     opacity: 1;
     cursor: pointer;
-    transition: .6s .6s ease;
-    -webkit-transition: .6s .6s ease;
-    -moz-transition: .6s .6s ease;     
+    transition: 0s ease;
+    -webkit-transition: 0s ease;
+    -moz-transition: 0s ease;     
 }
 
 #Keane:hover{
     opacity: .75;
-    text-decoration: underline;
-    transition: .3s  ease;
-    -webkit-transition: .3s  ease;
-    -moz-transition: .3s  ease;    
+    border: 1px solid #000;
+    border-width: 0 0 0px;
+    padding-bottom: 2px;
+    transition: 0s  ease;
+    -webkit-transition: 0s  ease;
+    -moz-transition: 0s  ease;     
 }
 
 #Duggan{
+    border: 1px solid #000;
+    border-width: 0 0 2px;
     opacity: 1;
     cursor: pointer;
-    transition: .6s .6s ease;
-    -webkit-transition: .6s .6s ease;
-    -moz-transition: .6s .6s ease; 
+    transition: 0s ease;
+    -webkit-transition: 0s ease;
+    -moz-transition: 0s ease; 
 }
 
 #Duggan:hover{
     opacity: .75;
-    text-decoration: underline;
-    transition: .3s  ease;
-    -webkit-transition: .3s  ease;
-    -moz-transition: .3s  ease;     
+    border: 1px solid #000;
+    border-width: 0 0 0px;
+    padding-bottom: 2px;
+    transition: 0s  ease;
+    -webkit-transition: 0s  ease;
+    -moz-transition: 0s  ease;      
 }
 
 #Neill{
+    border: 1px solid #000;
+    border-width: 0 0 2px;
     opacity: 1;
     cursor: pointer;
-    -webkit-transition: .6s .6s  ease;
-    transition: .6s .6s  ease;
-    -webkit-transition: .6s .6s ease;
-    -moz-transition: .6s .6s ease;     
+    transition: 0s ease;
+    -webkit-transition: 0s ease;
+    -moz-transition: 0s ease;     
 }
 
 #Neill:hover{
     opacity: .75;
-    text-decoration: underline;
-    transition: .3s  ease;
-    -webkit-transition: .3s  ease;
-    -moz-transition: .3s  ease;    
+    border: 1px solid #000;
+    border-width: 0 0 0px;
+    padding-bottom: 2px;
+    transition: 0s  ease;
+    -webkit-transition: 0s  ease;
+    -moz-transition: 0s  ease;     
 }
 
 #Osborne{
+    border: 1px solid #000;
+    border-width: 0 0 2px;
     opacity: 1;
     cursor: pointer;
-    transition: .6s .6s ease;
-    -webkit-transition: .6s .6s ease;
-    -moz-transition: .6s .6s ease;     
+    transition: 0s ease;
+    -webkit-transition: 0s ease;
+    -moz-transition: 0s ease;     
 }
 
 #Osborne:hover{
     opacity: .75;
-    text-decoration: underline;
-    transition: .3s  ease;
-    -webkit-transition: .3s  ease;
-    -moz-transition: .3s  ease;     
+    border: 1px solid #000;
+    border-width: 0 0 0px;
+    padding-bottom: 2px;
+    transition: 0s  ease;
+    -webkit-transition: 0s  ease;
+    -moz-transition: 0s  ease;       
 }
 
 #Hale{
+    border: 1px solid #000;
+    border-width: 0 0 2px;
     opacity: 1;
     cursor: pointer;
-    transition: .6s .6s ease;
-    -webkit-transition: .6s .6s ease;
-    -moz-transition: .6s .6s ease; 
+    transition: 0s ease;
+    -webkit-transition: 0s ease;
+    -moz-transition: 0s ease; 
 }
 
 #Hale:hover{
     opacity: .75;
-    text-decoration: underline;
-    transition: .3s  ease;
-    -webkit-transition: .3s  ease;
-    -moz-transition: .3s  ease;     
+    border: 1px solid #000;
+    border-width: 0 0 0px;
+    padding-bottom: 2px;
+    transition: 0s  ease;
+    -webkit-transition: 0s  ease;
+    -moz-transition: 0s  ease;      
 }
 
 #Palmer{
+    border: 1px solid #000;
+    border-width: 0 0 2px;
     opacity: 1;
     cursor: pointer;
-    transition: .6s .6s ease;
-    -webkit-transition: .6s .6s ease;
-    -moz-transition: .6s .6s ease;     
+    transition: 0s ease;
+    -webkit-transition: 0s ease;
+    -moz-transition: 0s ease;    
 }
 
 #Palmer:hover{
     opacity: .75;
-    text-decoration: underline;
-    transition: .3s  ease;
-    -webkit-transition: .3s  ease;
-    -moz-transition: .3s  ease;     
+    border: 1px solid #000;
+    border-width: 0 0 0px;
+    padding-bottom: 2px;
+    transition: 0s  ease;
+    -webkit-transition: 0s  ease;
+    -moz-transition: 0s  ease;      
 }
 
 #Rodger{
+    border: 1px solid #000;
+    border-width: 0 0 2px;
     opacity: 1;
     cursor: pointer;
-    -webkit-transition: .6s  .6s ease;
-    transition: .6s  .6s ease;
-    -webkit-transition: .6s .6s ease;
-    -moz-transition: .6s .6s ease;     
+    transition: 0s ease;
+    -webkit-transition: 0s ease;
+    -moz-transition: 0s ease;    
 }
 
 #Rodger:hover{
     opacity: .75;
-    text-decoration: underline;
-    transition: .3s  ease;
-    -webkit-transition: .3s  ease;
-    -moz-transition: .3s  ease;     
+    border: 1px solid #000;
+    border-width: 0 0 0px;
+    padding-bottom: 2px;
+    transition: 0s  ease;
+    -webkit-transition: 0s  ease;
+    -moz-transition: 0s  ease;    
 }
 
 #Rockhouse{
+    border: 1px solid #000;
+    border-width: 0 0 2px;
     opacity: 1;
     cursor: pointer;
-    -webkit-transition: .6s .6s  ease;
-    transition: .6s .6s  ease;
-    -webkit-transition: .6s .6s ease;
-    -moz-transition: .6s .6s ease;     
+    transition: 0s ease;
+    -webkit-transition: 0s ease;
+    -moz-transition: 0s ease;   
 }
 
 #Rockhouse:hover{
     opacity: .75;
-    text-decoration: underline;
-    transition: .3s  ease;
-    -webkit-transition: .3s  ease;
-    -moz-transition: .3s  ease;    
+    border: 1px solid #000;
+    border-width: 0 0 0px;
+    padding-bottom: 2px;
+    transition: 0s  ease;
+    -webkit-transition: 0s  ease;
+    -moz-transition: 0s  ease;     
 }
 
 #Sims{
+    border: 1px solid #000;
+    border-width: 0 0 2px;
     opacity: 1;
     cursor: pointer;
-    transition: .6s .6s ease;
-    -webkit-transition: .6s .6s ease;
-    -moz-transition: .6s .6s ease;     
+    transition: 0s ease;
+    -webkit-transition: 0s ease;
+    -moz-transition: 0s ease;    
 }
 
 #Sims:hover{
     opacity: .75;
-    text-decoration: underline;
-    transition: .3s  ease;
-    -webkit-transition: .3s  ease;
-    -moz-transition: .3s  ease;     
+    border: 1px solid #000;
+    border-width: 0 0 0px;
+    padding-bottom: 2px;
+    transition: 0s  ease;
+    -webkit-transition: 0s  ease;
+    -moz-transition: 0s  ease;      
 }
 
 #Ufer{
+    border: 1px solid #000;
+    border-width: 0 0 2px;
     opacity: 1;
     cursor: pointer;
-    transition: .6s .6s ease;
-    -webkit-transition: .6s .6s ease;
-    -moz-transition: .6s .6s ease; 
+    transition: 0s ease;
+    -webkit-transition: 0s ease;
+    -moz-transition: 0s ease; 
 }
 
 #Ufer:hover{
     opacity: .75;
-    text-decoration: underline;
-    transition: .3s  ease;
-    -webkit-transition: .3s  ease;
-    -moz-transition: .3s  ease;     
+    border: 1px solid #000;
+    border-width: 0 0 0px;
+    padding-bottom: 2px;
+    transition: 0s  ease;
+    -webkit-transition: 0s  ease;
+    -moz-transition: 0s  ease;     
 }
 
 #Valli{
+    border: 1px solid #000;
+    border-width: 0 0 2px;
     opacity: 1;
     cursor: pointer;
-    transition: .6s .6s ease;
-    -webkit-transition: .6s .6s ease;
-    -moz-transition: .6s .6s ease;     
+    transition: 0s ease;
+    -webkit-transition: 0s ease;
+    -moz-transition: 0s ease;     
 }
 
 #Valli:hover{
     opacity: .75;
-    text-decoration: underline;
-    transition: .3s  ease;
-    -webkit-transition: .3s  ease;
-    -moz-transition: .3s  ease;    
+    border: 1px solid #000;
+    border-width: 0 0 0px;
+    padding-bottom: 2px;
+    transition: 0s  ease;
+    -webkit-transition: 0s  ease;
+    -moz-transition: 0s  ease;     
 }
 
 #Hurren{
+    border: 1px solid #000;
+    border-width: 0 0 2px;
     opacity: 1;
     cursor: pointer;
-    -webkit-transition: .6s  .6s ease;
-    transition: .6s  .6s ease;
-    -webkit-transition: .6s .6s ease;
-    -moz-transition: .6s .6s ease;     
+    transition: 0s ease;
+    -webkit-transition: 0s ease;
+    -moz-transition: 0s ease;    
 }
 
 #Hurren:hover{
     opacity: .75;
-    text-decoration: underline;
-    transition: .3s  ease;
-    -webkit-transition: .3s  ease;
-    -moz-transition: .3s  ease;     
+    border: 1px solid #000;
+    border-width: 0 0 0px;
+    padding-bottom: 2px;
+    transition: 0s  ease;
+    -webkit-transition: 0s  ease;
+    -moz-transition: 0s  ease;      
 }
 
 .miners-images-containers{
@@ -3044,7 +3154,7 @@ p:first-of-type {
     font-weight: 400;
     line-height: 1.25;
     left: 40%;
-    width: 150px;
+    width: 165px;
     color: #999;
     display: -webkit-box;
     display: -ms-flexbox;

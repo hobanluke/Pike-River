@@ -914,6 +914,34 @@ font-size: 45em;
 }
 
 
+@media (min-width:2000px) and (max-width:4000px) {
+      .splash-heading{
+font-size: 55em;
+          width: 1000px
+    } 
+ 
+    .splash-heading2{
+font-size: 55em;
+        top: 1000px;
+        left: 700px;
+    } 
+    .splash-heading3{
+        font-size: 55em;
+    top: 950px;
+    } 
+    .landing-shape{
+    margin-top: -215px;
+    } 
+    .copy-information{
+    width: 30%;
+    }
+    .copy-timeline{
+    width: 25%;
+    } 
+        
+}
+
+
 
 
 

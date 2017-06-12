@@ -910,6 +910,9 @@ font-size: 45em;
     .copy-timeline{
     width: 25%;
     } 
+    .bottom-footer-content{    
+    width: 265px;
+    }
         
 }
 
@@ -938,6 +941,9 @@ font-size: 50em;
     .copy-timeline{
     width: 25%;
     } 
+        .bottom-footer-content{    
+    width: 265px;
+    }
         
 }
 

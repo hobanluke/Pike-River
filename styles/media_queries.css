@@ -916,21 +916,21 @@ font-size: 45em;
 
 @media (min-width:2000px) and (max-width:4000px) {
       .splash-heading{
-font-size: 55em;
-          width: 1000px
+font-size: 50em;
+          width: 1300px
     } 
  
     .splash-heading2{
-font-size: 55em;
+font-size: 50em;
         top: 1000px;
         left: 700px;
     } 
     .splash-heading3{
-        font-size: 55em;
+        font-size: 50em;
     top: 950px;
     } 
     .landing-shape{
-    margin-top: -215px;
+    margin-top: -315px;
     } 
     .copy-information{
     width: 30%;

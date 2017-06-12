@@ -911,8 +911,11 @@ font-size: 45em;
     width: 25%;
     } 
     .bottom-footer-content{    
-    width: 265px;
+    width: 275px;
     }
+        .bottom-footer-credit{
+        left: calc(35% - 275px);
+    }  
         
 }
 
@@ -942,8 +945,12 @@ font-size: 50em;
     width: 25%;
     } 
         .bottom-footer-content{    
-    width: 265px;
+    width: 275px;
     }
+            .bottom-footer-credit{
+        left: calc(35% - 275px);
+    }  
+        
         
 }
 

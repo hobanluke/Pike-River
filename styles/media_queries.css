@@ -613,12 +613,12 @@
     position: relative;
     }
     .list-miners li{
-    font-size: 15em;
+    font-size: 12em;
     }
     .copy-miners li{
     left: calc(20%);
     pointer-events: none;
-    }
+    } 
 
 /*Timeline*/
 

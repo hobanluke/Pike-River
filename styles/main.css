@@ -1339,7 +1339,7 @@ p:first-of-type {
     position: relative;
     float: left;
     padding-top: 15vh;
-    padding-bottom: 25px;
+    bottom: -25px;
 }
 
 .title-width-acknowledgements{

@@ -524,17 +524,10 @@ p:first-of-type {
     top: 25px;
     z-index: 110;
     font-size: 13em;
-    padding-bottom: 2px;
+    padding-bottom: 0px;
     cursor: pointer;
     opacity: 1;
     position: relative;
-    transition:  .5s ease; 
-    -webkit-transition: .5s ease; 
-    -moz-transition: .5s ease; 
-}
-
-.menu-link:hover {
-    opacity: 0.1;
     transition:  .5s ease; 
     -webkit-transition: .5s ease; 
     -moz-transition: .5s ease; 
@@ -1093,7 +1086,7 @@ p:first-of-type {
     }
 
 .anchor-class2:hover {
-    opacity: 0;
+    opacity: 0.15;
     cursor: pointer;
     transition: .6s ease;
     -webkit-transition: .6s ease;

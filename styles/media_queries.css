@@ -310,8 +310,8 @@
     }  
     .landing-shape{
     position: relative;
-    width: calc(155% - 0px);
-    left: -27.5%;
+    width: calc(145% - 0px);
+    left: -22.5%;
     margin-top: 15px;
     z-index: -1; 
     clear: left;
